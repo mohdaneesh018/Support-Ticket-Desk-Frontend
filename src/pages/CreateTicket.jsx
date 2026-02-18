@@ -99,7 +99,7 @@ function CreateTicket() {
 
                         <textarea
                             name="description"
-                            placeholder="Enter detailed description"
+                            placeholder="Enter Detailed Description"
                             value={form.description}
                             onChange={handleChange}
                             rows="4"

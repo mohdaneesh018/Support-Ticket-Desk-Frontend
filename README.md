@@ -6,6 +6,14 @@
 
 ---
 
+## 🌐 Live URLs:
+
+## Frontend Live URL: https://support-ticket-desk-frontend.vercel.app/
+
+## Backend Live URL: https://support-ticket-desk-backend-0g5r.onrender.com
+
+---
+
 ## 🚀 Tech Stack
 
 - React (Vite)
@@ -90,12 +98,9 @@ npm install
 npm run dev
 
 
-## Frontend runs on:
-http://localhost:5173
+## Frontend runs on: http://localhost:5173
 
-
-## Backend API base URL:
-http://localhost:5000/api
+## Backend API base URL: http://localhost:5000/api
 
 
 ## 🔄 API Integration
